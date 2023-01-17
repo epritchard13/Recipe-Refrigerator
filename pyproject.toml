@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "refrigerator"
+version = "0.1.0"
+description = ""
+authors = ["Henry Pritchard <epritchard@vt.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+uuid = "^1.30"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,6 @@
+pasta,5 ounces,1/14/2023 1:1:1
+tomatoes,3 count,1/25/2023 1:1:1
+cream,1 cups,1/14/2023 1:1:1
+sugar,2 cups,1/14/2023 1:1:1
+salt,2 tablespoons,1/14/2023 1:1:1
+vanilla,1 tablespoons,1/14/2023 1:1:1

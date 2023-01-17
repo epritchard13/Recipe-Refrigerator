@@ -1,0 +1,2 @@
+super cool soup->pasta:1 ounces,tomatoes:2 count,basil:1 tablspoons,chicken stock:1 cups
+ice cream->cream:2 cups,sugar:1 cups,salt:1 tablespoons,vanilla:1 tablespoons
